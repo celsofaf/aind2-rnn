@@ -35,9 +35,10 @@ def build_part1_RNN(window_size):
 ### TODO: return the text input with only ascii lowercase and the punctuation given below included.
 def cleaned_text(text):
     #punctuation = ['!', ',', '.', ':', ';', '?']
-    unwanted = ['(', ')', '&', '$', '%', '*', '@', '/', 'à', 'â', 'è', 'é']
+    unwanted = ['(', ')', '"', '-', '&', '$', '%', '*', '@', '/', 'à', 'â', 'è', 'é']
     for char in unwanted:
-        text = text.replace(char, ' ')  #kept "'", '-' because valid words can arise from them
+        text = text.replace(char, ' ')  #kept "'" because valid words can arise from there, like "don't"
+        text = text.replace('  ', ' ')  #double spaces
 
     return text
 
@@ -48,7 +49,8 @@ def window_transform_text(text, window_size, step_size):
     outputs = []
     
     j = 0
-    while j + window_size + 1 < len(text):
+    #while j + window_size + 1 < len(text):
+    while j + window_size < len(text):
         inputs.append(text[j:j+window_size])
         outputs.append(text[j+window_size+1])
         j = j + step_size
@@ -59,7 +61,7 @@ def window_transform_text(text, window_size, step_size):
 #    outputs = np.asarray(outputs)
 #    outputs.shape = (len(outputs),1)
 
-    return inputs,outputs
+    return inputs, outputs
 
 # TODO build the required RNN model: 
 # a single LSTM hidden layer with softmax activation, categorical_crossentropy loss 
