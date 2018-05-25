@@ -35,9 +35,9 @@ def build_part1_RNN(window_size):
 ### TODO: return the text input with only ascii lowercase and the punctuation given below included.
 def cleaned_text(text):
     #punctuation = ['!', ',', '.', ':', ';', '?']
-    unwanted = ['(', ')', '&', '$', '%', '*', '@', '/']
+    unwanted = ['(', ')', '&', '$', '%', '*', '@', '/', 'à', 'â', 'è', 'é']
     for char in unwanted:
-        text = text.replace(char, ' ')  #kept "'", 'à', 'â', 'è', 'é', '-' because valid words can arise from them
+        text = text.replace(char, ' ')  #kept "'", '-' because valid words can arise from them
 
     return text
 
@@ -64,4 +64,9 @@ def window_transform_text(text, window_size, step_size):
 # TODO build the required RNN model: 
 # a single LSTM hidden layer with softmax activation, categorical_crossentropy loss 
 def build_part2_RNN(window_size, num_chars):
-    pass
+    model = Sequential()
+    model.add(LSTM(200, input_shape=(window_size, num_chars)))
+    model.add(Dense(num_chars))
+    model.add(Dense(num_chars, activation='softmax'))
+    
+    return model
