@@ -318,3 +318,183 @@ input chars =
  a doubt upon all his mental results. grit in a sensitive instrument, or a crack in one of his own h"
 predicted chars = 
 r nt ate eel e hrmktn hsr.t oeogto,a o a aih ee hvrc ntee n et onete hr oteeie.w hses fteeal adue fr"
+-------------------
+input chars = 
+a doubt upon all his mental results. grit in a sensitive instrument, or a crack in one of his own hi"
+predicted chars = 
+ adws nt i nt tleten.i.t otelie o a ate hs o a otrd o adan n oe era acas o adiet teseae fo teliie.i "
+-------------------
+input chars = 
+ doubt upon all his mental results. grit in a sensitive instrument, or a crack in one of his own hig"
+predicted chars = 
+tn hn oteee.igtee hssef frm hsm o a aie a acoe i a acas o yu ontc on hd adad nt a hrv o eprtont.n nt"
+-------------------
+input chars = 
+doubt upon all his mental results. grit in a sensitive instrument, or a crack in one of his own high"
+predicted chars = 
+ddn hr oe o a ote i otecie o a one i evrtmne hsetrnt o a ata o ntee i a acae a acos ngeo o ayia o ad"
+-------------------
+input chars = 
+oubt upon all his mental results. grit in a sensitive instrument, or a crack in one of his own high "
+predicted chars = 
+tre etoe o a acores nw avr oe ore o nt otee hswne,s hr esldue i a att hr rt nt n.trne.i oe hr hdrdd "
+-------------------
+input chars = 
+ubt upon all his mental results. grit in a sensitive instrument, or a crack in one of his own high p"
+predicted chars = 
+nere hr teeeig i o a otee n aknn frmne hsr.tnt i a ata ose o ee ntrce o i apit nt tel i hvr eee.h hr"
+-------------------
+input chars = 
+bt upon all his mental results. grit in a sensitive instrument, or a crack in one of his own high po"
+predicted chars = 
+e hr taee eel e hnretn pstr sies t hr rvresews nree hsret sevr nt i et ntet.n.ie hddrsnn hdres ad ac"
+-------------------
+input chars = 
+t upon all his mental results. grit in a sensitive instrument, or a crack in one of his own high pow"
+predicted chars = 
+ u edut ntree n iknrosepet o adt otee hr oe hr o adsraie nthre hadbe hvr eeee.t hr hsrda senlsae fo "
+-------------------
+input chars = 
+ upon all his mental results. grit in a sensitive instrument, or a crack in one of his own high powe"
+predicted chars = 
+ nw hr ha se nthne o adsetet i ayut frm hmr nt t et ntet.n.mn hr hdres hdr oesoe hsdr adealad nthrs "
+-------------------
+input chars = 
+upon all his mental results. grit in a sensitive instrument, or a crack in one of his own high power"
+predicted chars = 
+ nretee hrde nt ale o etoe i ayata o a acos n evriet nw ite i evnycie hs ot nt tetet o a api t tknet"
+-------------------
+input chars = 
+pon all his mental results. grit in a sensitive instrument, or a crack in one of his own high power "
+predicted chars = 
+nretee hrde nt ale o etoe i ayata o a acos n evriet nw ite i evnycie hs ot nt tetet o a api t tkneti"
+-------------------
+input chars = 
+on all his mental results. grit in a sensitive instrument, or a crack in one of his own high power l"
+predicted chars = 
+ne egnn hmret o a awyuttr hsm.t tesrie i hvr eeerswnt n egie es nteie ega n hrm trseton nge eo hvr e"
+-------------------
+input chars = 
+n all his mental results. grit in a sensitive instrument, or a crack in one of his own high power le"
+predicted chars = 
+te n hnrcisl.t.t eda ee o a it o onon o a ot hr eg.hrs hdrvrcmdnytostonton o a aga o hvr ees rgeiin "
+-------------------
+input chars = 
+ all his mental results. grit in a sensitive instrument, or a crack in one of his own high power len"
+predicted chars = 
+ n hnree.i ee hsr ese et a et nge ntetee o a ato hr adetrnaes nteeig hdr ntere.i hr eer n hvre eeoe "
+-------------------
+input chars = 
+all his mental results. grit in a sensitive instrument, or a crack in one of his own high power lens"
+predicted chars = 
+ n hnrcie t nw otee t nu rsade frm hsm o a ato o adoe,h isol ers hrdddr teleyhls n hvr age hsde rtmn"
+-------------------
+input chars = 
+ll his mental results. grit in a sensitive instrument, or a crack in one of his own high power lense"
+predicted chars = 
+ nt ate o a ati t tes i n.tnesig hr ot prniiie.igtdrn i oteprsie.h ee hr al adue frm hn rgans nt aes"
+-------------------
+input chars = 
+l his mental results. grit in a sensitive instrument, or a crack in one of his own high power lenses"
+predicted chars = 
+ nt ate o a ote i hde atane frm hls a hnrhwrd nth ee hr oeee o a ot hr ntete hr rtane.t telige o a a"
+-------------------
+input chars = 
+ his mental results. grit in a sensitive instrument, or a crack in one of his own high power lenses,"
+predicted chars = 
+a o a ate i evrtnetd yu  isd ot oe o nwrei  rage  teliie nwt n aknc o adat ntie o a aiete hr etint n"
+-------------------
+input chars = 
+his mental results. grit in a sensitive instrument, or a crack in one of his own high power lenses, "
+predicted chars = 
+h riaee  adig hs ot a aca ot hr etete.ie,a otea a ato hs ot rpntin nw teee hr etrne.ie hsm o eeeie  "
+-------------------
+input chars = 
+is mental results. grit in a sensitive instrument, or a crack in one of his own high power lenses, w"
+predicted chars = 
+tletig ethscsad frm hsssfciet nwtteetot o a acoie hsie rsmr hrset.n.yn ntmr a ega fruhi frm hsm nthr"
+-------------------
+input chars = 
+s mental results. grit in a sensitive instrument, or a crack in one of his own high power lenses, wo"
+predicted chars = 
+l a etene.betee hsset s et nt etet n eteie ecmneie fo tes it rsad nt tee i ntet hsrc tes athrs etera"
+-------------------
+input chars = 
+ mental results. grit in a sensitive instrument, or a crack in one of his own high power lenses, wou"
+predicted chars = 
+d hvretn hrset n ee i a acos o eypt i hvr eee hr nthreet t tel i ntesevl hsr o a et nt etet.n otee h"
+-------------------
+input chars = 
+mental results. grit in a sensitive instrument, or a crack in one of his own high power lenses, woul"
+predicted chars = 
+ hvr ale hsret.t rnmse ee setedt o a ato adit hs ot rvnigte.t tel hmres frm hvr ati nwsa o apac.icto"
+-------------------
+input chars = 
+ental results. grit in a sensitive instrument, or a crack in one of his own high power lenses, would"
+predicted chars = 
+hdd o a otee i adi o aknrstn hr oternttnn hr etoe o a atorai n aka.''tecie i hvr eeie.''''''''''''''"
+-------------------
+input chars = 
+ntal results. grit in a sensitive instrument, or a crack in one of his own high power lenses, would "
+predicted chars = 
+eetn a etee n atenr nteee  ore hrdees hsr rsah hsreis n hrc aae rahrae,adhr hrmeed t tel athnes nttr"
+-------------------
+input chars = 
+tal results. grit in a sensitive instrument, or a crack in one of his own high power lenses, would n"
+predicted chars = 
+t n hrs aae rganet n ee n et nteie frm hssoa i esattr.t nw hurigt hr otepiie.i ee hmree frm hvr rcae"
+-------------------
+input chars = 
+al results. grit in a sensitive instrument, or a crack in one of his own high power lenses, would no"
+predicted chars = 
+ al o i ore eget.t.ntnn,wr nt ls nt se otee h rginte hsi n eee u etmnee otee h oe aahr hdmr t nvr eg"
+-------------------
+input chars = 
+l results. grit in a sensitive instrument, or a crack in one of his own high power lenses, would not"
+predicted chars = 
+mnn a eton ora ato aprac o a anacnigt hsm a eean.ietd hr us fcmtruiels nw acai hu o eedtin i hvr eee"
+-------------------
+input chars = 
+ results. grit in a sensitive instrument, or a crack in one of his own high power lenses, would not "
+predicted chars = 
+u eel h rcitidt hs ot pe oedto hsr atoe a hwr aga frm ess nthrdnn n hrs hadse hdrvsrcmdntdn hssef t "
+-------------------
+input chars = 
+results. grit in a sensitive instrument, or a crack in one of his own high power lenses, would not b"
+predicted chars = 
+ oee e atenie.b teeigl o a oter n ade n aknr ntee hrdt ntere eel eet o a aton n eete ege ee oee o o "
+-------------------
+input chars = 
+esults. grit in a sensitive instrument, or a crack in one of his own high power lenses, would not be"
+predicted chars = 
+nee l as o hdr etrnne.ig n eie evr oe  i o nged o,t o eetie o a ape adiet oeogto,a o a ate a attr ag"
+-------------------
+input chars = 
+sults. grit in a sensitive instrument, or a crack in one of his own high power lenses, would not be "
+predicted chars = 
+ee o etee.igt nt alet frm hr agint ntee.t tel i ntet n hvr etrnge,wih eee hr oeee hr ot nt rtmn et n"
+-------------------
+input chars = 
+ults. grit in a sensitive instrument, or a crack in one of his own high power lenses, would not be m"
+predicted chars = 
+r oe ontotin ecoe nwtrnntsig hss.a eea a acos o oddr ntrne  oet h ri rcalaysines hr eslpns h hu a ad"
+-------------------
+input chars = 
+lts. grit in a sensitive instrument, or a crack in one of his own high power lenses, would not be mo"
+predicted chars = 
+e h rvrtnndy otte eee hr oteee hrs foese o a otec o adan n hvr ega nwtres ntee n aten ntee es hrce s"
+-------------------
+input chars = 
+ts. grit in a sensitive instrument, or a crack in one of his own high power lenses, would not be mor"
+predicted chars = 
+ etlnre hmret o a api o tek i n.see hr etrne,wid eet nt teet.n otee eee ee oeo o romtl hmret.teeeos "
+-------------------
+input chars = 
+s. grit in a sensitive instrument, or a crack in one of his own high power lenses, would not be more"
+predicted chars = 
+t i eprtie hsm t evriet nw ite i evrymeet o akn ntoe o a agi taesate frm hssof n agt t tel ittr i.s "
+-------------------
+input chars = 
+. grit in a sensitive instrument, or a crack in one of his own high power lenses, would not be more "
+predicted chars = 
+i eprtied yu oee hr oe hr otee.igtes hsr ase.sae adse hvr eer oe oel ee hsm.tn hmre.t oe rmliet nt o"
