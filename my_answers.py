@@ -34,10 +34,13 @@ def build_part1_RNN(window_size):
 
 ### TODO: return the text input with only ascii lowercase and the punctuation given below included.
 def cleaned_text(text):
-    #punctuation = ['!', ',', '.', ':', ';', '?']
-    unwanted = ['(', ')', '"', '-', '&', '$', '%', '*', '@', '/', 'à', 'â', 'è', 'é']
+    punctuation = ['!', ',', '.', ':', ';', '?']
+    letters = ['a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm', 'n', 'o', 'p', 'q', 'r', 's', 't', 'u', 'v', 'w', 'x', 'y', 'z']
+    wanted = set(punctuation).union(set(letters))
+    unwanted = set(text).difference(wanted)
+    
     for char in unwanted:
-        text = text.replace(char, ' ')  #kept "'" because valid words can arise from there, like "don't"
+        text = text.replace(char, ' ')
         text = text.replace('  ', ' ')  #double spaces
 
     return text
@@ -49,10 +52,10 @@ def window_transform_text(text, window_size, step_size):
     outputs = []
     
     j = 0
-    while j + window_size + 1 < len(text):
+    while j + window_size + 1 <= len(text):
     #while j + window_size < len(text):
         inputs.append(text[j:j+window_size])
-        outputs.append(text[j+window_size+1])
+        outputs.append(text[j+window_size])
         j = j + step_size
     
     # reshape each 
