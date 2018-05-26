@@ -49,8 +49,8 @@ def window_transform_text(text, window_size, step_size):
     outputs = []
     
     j = 0
-    #while j + window_size + 1 < len(text):
-    while j + window_size < len(text):
+    while j + window_size + 1 < len(text):
+    #while j + window_size < len(text):
         inputs.append(text[j:j+window_size])
         outputs.append(text[j+window_size+1])
         j = j + step_size
@@ -68,7 +68,7 @@ def window_transform_text(text, window_size, step_size):
 def build_part2_RNN(window_size, num_chars):
     model = Sequential()
     model.add(LSTM(200, input_shape=(window_size, num_chars)))
-    model.add(Dense(num_chars))
+    #model.add(Dense(num_chars))
     model.add(Dense(num_chars, activation='softmax'))
     
     return model
